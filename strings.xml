@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">জনসেবা লটারি Admin</string>
+    <string name="default_web_client_id">PASTE_FIREBASE_WEB_CLIENT_ID_HERE</string>
+</resources>
